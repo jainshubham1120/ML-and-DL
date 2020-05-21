@@ -15,8 +15,13 @@ The test data set, (test.csv), is the same as the training set, except that it d
 
 Other details:
 Optimizer used: SGD
+
 5 Fold Cross Validation
+
 Activation Function: ReLU
+
 Hidden Layers(Nodes) : 3(32,64,64)
+
 Learning Rate : 0.01
+
 Epochs : 10
