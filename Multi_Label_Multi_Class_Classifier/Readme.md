@@ -13,3 +13,7 @@ Multi_Label_Multi_Class_Classifier based on Kaggle- Fashion Product Images (Smal
 - Accuracy = 87.45%
 - Loss function used - BCEWithLogitsLoss()
 - Output Threshold - 0.2
+
+#### Output
+
+![Uploading Capture2.jpg]()
