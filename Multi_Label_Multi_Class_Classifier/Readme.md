@@ -16,4 +16,4 @@ Multi_Label_Multi_Class_Classifier based on Kaggle- Fashion Product Images (Smal
 
 #### Output
 
-![Uploading Capture2.JPG...]()
+![Capture2](https://user-images.githubusercontent.com/45367959/89104689-cbc27f80-d438-11ea-8da0-dd68f475f769.JPG)
