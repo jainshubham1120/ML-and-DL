@@ -1,7 +1,8 @@
 # Multi_Label_Multi_Class_Classifier
 
 Multi_Label_Multi_Class_Classifier based on Kaggle- Fashion Product Images (Small) Dataset (https://www.kaggle.com/paramaggarwal/fashion-product-images-small?). 
-- Other info - 
+
+###### Other info - 
 
 - Framework - PyTorch
 - CNN Architecture - Mobilenet_v2 (pretrained on ImageNet)
